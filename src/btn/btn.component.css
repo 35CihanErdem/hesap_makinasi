@@ -1,0 +1,9 @@
+.btn {
+  background-color: bisque;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  min-width: 80px; /* Minimum genişlik ayarı */
+  text-align: center; /* Metni ortalar */
+  margin-bottom: 30px;
+}

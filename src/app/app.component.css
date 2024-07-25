@@ -1,0 +1,8 @@
+.button-container {
+    display: flex;
+    justify-content: center; /* Butonları yatayda ortalar */
+    align-items: center; /* Butonları dikeyde ortalar */
+    gap: 10px; /* Butonlar arasında boşluk */
+    flex-wrap: wrap; /* Gerektiğinde butonları bir alt satıra taşır */
+  }
+  
